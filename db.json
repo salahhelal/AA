@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movieImage": "../assets/Spiderman/Spiderman-L.png",
+      "products": [
+        { "id": 1, "name": "Produit Spider-Man 1", "price": "29.99€", "image": "https://ibb.co/nPYpJ7C", "inStock": false },
+        { "id": 2, "name": "Produit Spider-Man 2", "price": "30.99€", "image": "../assets/Spiderman/costume_homme_spiderman.jpeg", "inStock": true },
+        { "id": 3, "name": "Produit Spider-Man 3", "price": "31.99€", "image": "../assets/Spiderman/costume_women_rougeetnoir.jpeg", "inStock": true },
+        { "id": 4, "name": "Produit Spider-Man 4", "price": "32.99€", "image": "../assets/Spiderman/gants-spiderman.jpeg", "inStock": false },
+        { "id": 5, "name": "Produit Spider-Man 5", "price": "33.99€", "image": "../assets/Spiderman/mask_spidermannoir.jpg", "inStock": true },
+        { "id": 6, "name": "Produit Spider-Man 6", "price": "32.99€", "image": "../assets/Spiderman/spider_gold.jpg", "inStock": true },
+        { "id": 7, "name": "Produit Spider-Man 7", "price": "31.99€", "image": "../assets/Spiderman/spider_temthel.jpg", "inStock": false },
+        { "id": 8, "name": "Produit Spider-Man 8", "price": "32.99€", "image": "../assets/Spiderman/spider-girl-eye-mask.jpg", "inStock": true }
+      ]
+    }
+  ]
+}
